@@ -1,0 +1,16 @@
+/* header section start */
+.bg-color{
+    background-color: darkviolet;
+}
+.text-color{
+    color:white;
+}
+.text-color:hover{
+    color:lightgray;
+}
+.slide-height{
+    height:550px;
+}
+.animal{
+    width:25%;
+}

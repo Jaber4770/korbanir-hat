@@ -12,5 +12,22 @@
     height:550px;
 }
 .animal{
-    width:25%;
+    width:30.5%;
+}
+.animal-img img{
+    width:100%;
+}
+.animal-name{
+    font-size: 30px;
+}
+.free-button{
+    background-color: tomato;
+    border:none;
+    border-radius: 5px;
+    padding:5px 30px;
+}
+.free-button a{
+    text-decoration:none;
+    color:white;
+    font-weight: 600;
 }

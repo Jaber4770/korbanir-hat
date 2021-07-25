@@ -1,13 +1,4 @@
 /* header section start */
-.bg-color{
-    background-color: darkviolet;
-}
-.text-color{
-    color:white;
-}
-.text-color:hover{
-    color:lightgray;
-}
 .slide-height{
     height:550px;
 }
@@ -32,5 +23,5 @@
     font-weight: 600;
 }
 .img-w{
-    width:200%;
+    width:50%;
 }
